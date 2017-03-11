@@ -3,7 +3,7 @@
 Welcome to the Smyte careers repository. We have a few open positions on [our team](https://www.smyte.com/team) right now:
 
   * [Infrastructure engineer](./Infrastructure_engineer.md)
-  * [Growth engineer](./Growth_engineer.md)
+  * [Anti-abuse engineer](./Anti-abuse_Engineer.md)
   * [Data scientist](./Data_scientist.md)
   * [Sales](./Sales.md)
 
