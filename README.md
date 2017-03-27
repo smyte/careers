@@ -6,6 +6,7 @@ Welcome to the Smyte careers repository. We have a few open positions on [our te
   * [Anti-abuse engineer](./Anti-abuse_Engineer.md)
   * [Data scientist](./Data_scientist.md)
   * [Sales](./Sales.md)
+  * [Office manager](./Office_manager.md)
 
 ## Why Smyte?
 * We stop the victimization of innocent people online.
