@@ -3,10 +3,8 @@
 Welcome to the Smyte careers repository. We have a few open positions on [our team](https://www.smyte.com/team) right now:
 
   * [Infrastructure engineer](./Infrastructure_engineer.md)
-  * [Anti-abuse engineer](./Anti-abuse_Engineer.md)
   * [Data scientist](./Data_scientist.md)
   * [Sales](./Sales.md)
-  * [Office manager](./Office_manager.md)
 
 ## Why Smyte?
 * We stop the victimization of innocent people online.
@@ -17,33 +15,48 @@ Welcome to the Smyte careers repository. We have a few open positions on [our te
 * We offer competitive salary, benefits, and equity.
  
 ## Some of [our team's](https://www.smyte.com/team) favorite projects
-#### Pete
+
+#### Pete (CEO, founder, ex-Facebook, original member of React.js team)
 * Replacing Riak with multiple services built on [RocksDB](https://www.rocksdb.org/)
 * Developing a "layers framework" (modals, tooltips, and focus management) on the frontend
 * Learning devops
  
-#### Josh
+#### Josh (backend, founder, ex-Instagram, previously founder of SnapBill)
 * Working with interns to implement and productionize the [Sliding HyperLogLog](https://hal.archives-ouvertes.fr/hal-00465313/file/sliding_HyperLogLog.pdf) algorithm
 * Implementing and deploying a domain-specific language for writing efficient, stateful rules
 
-#### Julian
+#### Julian (anti-abuse, founder, ex-Google anti-fraud on wallet & anti-abuse on drive)
 * Fighting fraud and abuse with custom reputation and relation databases
 * Rate limiting billions of events with minimal false positives
 
-#### Meyer
-* Designing and implementing our live rules editor
-* Making the transition from design to front-end engineering
+#### Jonathan (anti-abuse, previously faught fraud/spam at Google and Yahoo)
+* TODO: Jonathan to send in some examples
 
-#### Caroline
-* Building relationships with our customers
-* Solving varied use cases and finding ways to work within customer budgets
+#### Pierre (anti-abuse, previously faught fraud at Stripe)
+* TODO: Pierre to send in some examples
 
-#### Yunjing
+#### Alana (anti-abuse, worked on policy and enforcement at Google & YouTube)
+* TODO: Alana to send in some examples
+
+#### Yunjing (infra, data infrastructure at Square, Ph.D in cloud performance & security)
 * Building domain-specific databases using [Kafka](http://kafka.apache.org/), RocksDB, and [Kubernetes](http://kubernetes.io/) that serve streaming processing results at scale
 * Supporting customers with 100s of millions of monthly active users to fight attackers that are constantly evolving
 
-#### Paul
+#### Paul (infra, ex-Inkling, studied system design at University of Waterloo)
 * Building a machine learning pipeline with [TensorFlow](https://www.tensorflow.org/)
 * Building a reliable and efficient webhook delivery system
+
+#### Dave (infra, founded Minefold and Assembly.com)
+* TODO: Dave to send in some examples
+
+#### Kristen (sales, managed sales at DropBox)
+* TODO: Kristen to send in some examples
+
+#### Lauren (chief of staff, previously Lonely Planet)
+* TODO: Lauren to send in some examples
+
+#### Meyer (design, design contractor at DropBox/Venmo)
+* Designing and implementing our live rules editor
+* Making the transition from design to front-end engineering
 
 Interested? Email jobs@smyte.com. No recruiters please.
