@@ -40,7 +40,8 @@ Are you interested? Just send us an email at jobs@smyte.com. No recruiters pleas
 * TODO: Pierre to send in some examples
 
 #### Alana (anti-abuse, worked on policy and enforcement at Google & YouTube)
-* TODO: Alana to send in some examples
+* Within a few hours, identified and successfully blocked almost all spammy account creation for a new client, cutting down total signups by ~16%.
+* Identified stats on rule performance and overlap, manual review results, and business metrics from data in BigQuery.
 
 #### Yunjing (infra, data infrastructure at Square, Ph.D in cloud performance & security)
 * Building domain-specific databases using [Kafka](http://kafka.apache.org/), RocksDB, and [Kubernetes](http://kubernetes.io/) that serve streaming processing results at scale
@@ -54,10 +55,11 @@ Are you interested? Just send us an email at jobs@smyte.com. No recruiters pleas
 * TODO: Dave to send in some examples
 
 #### Kristen (sales, managed sales at DropBox)
-* TODO: Kristen to send in some examples
+* Working with companies to learn and advocate where we can best help them fight fraud and abuse.
+* Building relationships with our communities of customers and partners.
 
 #### Lauren (chief of staff, previously Lonely Planet)
-* TODO: Lauren to send in some examples
+* Operations and human resources
 
 #### Meyer (design, design contractor at DropBox/Venmo)
 * Designing and implementing our live rules editor
