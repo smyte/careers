@@ -37,7 +37,8 @@ Are you interested? Just send us an email at jobs@smyte.com. No recruiters pleas
 * TODO: Jonathan to send in some examples
 
 #### Pierre (anti-abuse, previously faught fraud at Stripe)
-* TODO: Pierre to send in some examples
+* Writing tool for quickly identifying and deep-dive investigating outlier behaviors for our users.
+* Learning the power of SQRL to write powerful and dynamic rules to block bad actions.
 
 #### Alana (anti-abuse, worked on policy and enforcement at Google & YouTube)
 * Within a few hours, identified and successfully blocked almost all spammy account creation for a new client, cutting down total signups by ~16%.
