@@ -57,14 +57,14 @@ Are you interested? Just send us an email at jobs@smyte.com. No recruiters pleas
 * Building a service mesh to better manage our microservices
 * Move our api to graphql to better support web and mobile clients
 
-#### Kristen (sales, managed sales at DropBox)
+#### Kristen (sales, managed sales at Dropbox)
 * Working with companies to learn and advocate where we can best help them fight fraud and abuse.
 * Building relationships with our communities of customers and partners.
 
 #### Lauren (chief of staff, previously Lonely Planet)
 * Operations and human resources
 
-#### Meyer (design, design contractor at DropBox/Venmo)
+#### Meyer (design, design contractor at Dropbox/Venmo)
 * Designing and implementing our live rules editor
 * Making the transition from design to front-end engineering
 
