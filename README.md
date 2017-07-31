@@ -6,6 +6,8 @@ Welcome to the Smyte careers repository. We have a few open positions on [our te
   * [Infrastructure engineer](./Infrastructure_engineer.md)
   * [Data scientist](./Data_scientist.md)
   * [Sales Development Representative](./Sales_development_representative.md)
+  * [Product Marketing Manager] (./Product_Marketing_Manager.md)
+  * [VP, Sales (Enterprise)] (./VP_Sales_Enterprise.md)
 
 ## Why Smyte?
 * We stop the victimization of innocent people online.
