@@ -2,12 +2,12 @@
 
 Welcome to the Smyte careers repository. We have a few open positions on [our team](https://www.smyte.com/team) right now:
 
-  * [Account executive](./Account_executive.md)
-  * [Infrastructure engineer](./Infrastructure_engineer.md)
-  * [Data scientist](./Data_scientist.md)
-  * [Sales Development Representative](./Sales_development_representative.md)
-  * [Product Marketing Manager](./Product_Marketing_Manager.md)
-  * [VP, Sales (Enterprise)](./VP_Sales_Enterprise.md)
+  * [Account executive](./roles/Account_executive.md)
+  * [Infrastructure engineer](./roles/Infrastructure_engineer.md)
+  * [Data scientist](./roles/Data_scientist.md)
+  * [Sales Development Representative](./roles/Sales_development_representative.md)
+  * [Product Marketing Manager](./roles/Product_Marketing_Manager.md)
+  * [VP, Sales (Enterprise)](./roles/VP_Sales_Enterprise.md)
 
 ## Why Smyte?
 * We stop the victimization of innocent people online.
