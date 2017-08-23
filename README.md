@@ -5,7 +5,7 @@ Welcome to the Smyte careers repository. We have a few open positions on [our te
   * [Account executive](./roles/Account_executive.md)
   * [Infrastructure engineer](./roles/Infrastructure_engineer.md)
   * [Data scientist](./roles/Data_scientist.md)
-  * [Sales Development Representative](./roles/Sales_development_representative.md)
+  * [Anti-Abuse Engineer](./roles/Anti_abuse_engineer.md)
   * [Product Marketing Manager](./roles/Product_Marketing_Manager.md)
   * [VP, Sales (Enterprise)](./roles/VP_Sales_Enterprise.md)
 
