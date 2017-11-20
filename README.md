@@ -36,13 +36,6 @@ Are you interested? Just send us an email at jobs@smyte.com. No recruiters pleas
 * Fighting fraud and abuse with custom reputation and relation databases
 * Rate limiting billions of events with minimal false positives
 
-#### Jonathan (anti-abuse, previously faught fraud/spam at Google and Yahoo)
-* TODO: Jonathan to send in some examples
-
-#### Pierre (anti-abuse, previously faught fraud at Stripe)
-* Writing tool for quickly identifying and deep-dive investigating outlier behaviors for our users.
-* Learning the power of SQRL to write powerful and dynamic rules to block bad actions.
-
 #### Alana (anti-abuse, worked on policy and enforcement at Google & YouTube)
 * Within a few hours, identified and successfully blocked almost all spammy account creation for a new client, cutting down total signups by ~16%.
 * Identified stats on rule performance and overlap, manual review results, and business metrics from data in BigQuery.
