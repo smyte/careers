@@ -1,36 +1,48 @@
-# Account Executive (SaaS) 
-
-## Who we are
-
-Smyte analyzes hundreds of millions of users and tens of thousands of events per second to stop spam, scams, credit card fraud, and online harassment on peer-to-peer marketplaces and social networks.
-
-We’re looking for someone to help us find and close deals and continue our rapid monthly recurring revenue growth.
-
-Location: San Francisco, CA
+# Account Executive (SaaS)
 
 
-## What you’ll do:  
+**Who we are**
+Smyte analyzes hundreds of millions of users and tens of thousands of events per second to stop spam, scams, credit card fraud, and online harassment. Our customers include some of the largest online brands in the world, and our team are world-class alumni from places like Facebook, Google, Instagram, and YouTube.
 
-* Meet /exceed your quota by adding new clients and upselling existing clients.
-* Manage your sales pipeline to identify and qualify prospects, sell them the value of Smyte, demonstrate the solution, and close/onboard working closely with an SE.  
-* Manage complex sales negotiations, craft sales positioning and presentation approach, assist with proposals and POCs to drive your pipeline and success.
-* Collaborate with marketing to help build outbound lead gen programs.  
+We’re looking for an Account Executive who loves to close deals and be a part of a fast growing startup. 
 
-## Who you are: 
-
-* A top performer with 2+ years of proven success selling a SaaS solution and exceeding an annual quota over $500k. Experience selling security or fraud solutions a plus. 
-* A drive to win with a proven process for identifying decision makers and selling into multiple layers of an organization. 
-* A rock star team solution seller who can identify needs/challenges and qualify prospects for a complex product.  
-* A problem solver with outstanding communication skills, both written and verbal, and experience selling in an early stage environment. 
-* A Positive "get it done" attitude with a bias towards action and the ability to do more with less.
+**Location: San Francisco, CA**
 
 
-## Why you’ll love us:
+**What you’ll do**:
 
-* We stop the victimization of innocent people online
-* We are the highest-quality product in this space
-* 100% paid medical, dental, and vision coverage
-* Competitive commission plan 
-* Fun, casual, hard-working team with an office near the ballpark 
+* Meet / exceed your quota by adding new clients and upselling existing clients.
+* Own the customer relationship and manage the sell cycle, including:
+* Qualify prospects on discovery calls.
+* Demonstrate the Smyte Abuse Management Platform.
+* Manage a proof of concept, if necessary.
+* Negotiate business terms.
+* Manage any redlines, if necessary.
+* Accurately predict the timing and value of your deals.
+* Work closely with engineering, marketing, legal and finance to create and keep happy customers.
+* Handle some renewals, as needed.
 
-Interested? Email jobs@smyte.com. No recruiters please.
+**Who you are:**
+
+* You are a top performer with 3-5+ years of proven success selling a SaaS solution and exceeding an annual quota over $1M+.
+* You have experience selling security or fraud solutions.
+* You have a drive to win.
+* You have successfully sold SaaS solutions whose ARR’s exceeded $60K per year.
+* You have done multiple deals greater than $100K ARR.
+* You have sold complex deals requiring selling to multiple personas.
+* You are a problem solver with outstanding communication skills, both written and verbal, and experience selling in an early stage environment.
+* You have a  Positive, "get it done" attitude with a bias towards action, and are comfortable in a startup environment.
+* Strong technical competence. Experience working in Salesforce CRM.
+
+
+**Why you’ll love us:**
+
+* We stop the victimization of innocent people online.
+* We are the the most flexible and adaptable  product in this space.
+* Our pedigree is extremely strong.
+* 100% paid medical, dental, and vision coverage.
+* Competitive commission plan. 
+* Fun, casual, hard-working team with an office near the ballpark.
+
+
+**Interested? Email jobs@smyte.com. No recruiters please.**
