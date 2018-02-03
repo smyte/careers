@@ -1,15 +1,14 @@
 # Account Executive (SaaS)
 
 
-**Who we are**
+## Who we are
 Smyte analyzes hundreds of millions of users and tens of thousands of events per second to stop spam, scams, credit card fraud, and online harassment. Our customers include some of the largest online brands in the world, and our team are world-class alumni from places like Facebook, Google, Instagram, and YouTube.
 
 We’re looking for an Account Executive who loves to close deals and be a part of a fast growing startup. 
 
 **Location: San Francisco, CA**
 
-
-**What you’ll do**:
+## What you’ll do
 
 * Meet / exceed your quota by adding new clients and upselling existing clients.
 * Own the customer relationship and manage the sell cycle, including:
@@ -22,7 +21,7 @@ We’re looking for an Account Executive who loves to close deals and be a part 
 * Work closely with engineering, marketing, legal and finance to create and keep happy customers.
 * Handle some renewals, as needed.
 
-**Who you are:**
+## Who you are:
 
 * You are a top performer with 3-5+ years of proven success selling a SaaS solution and exceeding an annual quota over $1M+.
 * You have experience selling security or fraud solutions.
@@ -35,7 +34,7 @@ We’re looking for an Account Executive who loves to close deals and be a part 
 * Strong technical competence. Experience working in Salesforce CRM.
 
 
-**Why you’ll love us:**
+## Why you’ll love us:
 
 * We stop the victimization of innocent people online.
 * We are the the most flexible and adaptable  product in this space.
@@ -43,6 +42,5 @@ We’re looking for an Account Executive who loves to close deals and be a part 
 * 100% paid medical, dental, and vision coverage.
 * Competitive commission plan. 
 * Fun, casual, hard-working team with an office near the ballpark.
-
 
 **Interested? Email jobs@smyte.com. No recruiters please.**
