@@ -21,7 +21,6 @@ We're always looking for ways to help out our customers and improve our product,
 * Work with design to figure out a manual review queue that's easier to use.
 * Come up with new rules to reduce the amount of manual review our customers need to do.
 * Design a generic data model for social network spam.
-* Identify creative new ways to price our product that aligns our customers' success with ours.
 
 
 ## Why you’ll love us:
@@ -29,7 +28,6 @@ We're always looking for ways to help out our customers and improve our product,
 * We stop the victimization of innocent people online.
 * We are the highest-quality product in this space.
 * 100% paid medical, dental, and vision coverage.
-* Competitive commission plan.
 * Fun, casual, hard-working team with an office near the ballpark.
 
 Interested? Email jobs@smyte.com. No recruiters please.
