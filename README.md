@@ -1,6 +1,6 @@
 # Careers at [Smyte](https://www.smyte.com/)
 
-Welcome to the Smyte careers repository. We have a few open positions on [our team](https://www.smyte.com/team) right now:
+Welcome to the Smyte careers repository. We have a few open positions on [our team](https://www.smyte.com/about) right now:
 
   * [Account executive (SaaS)](./roles/Account_executive.md)
   * [Infrastructure engineer](./roles/Infrastructure_engineer.md)
