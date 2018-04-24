@@ -18,7 +18,7 @@ Welcome to the Smyte careers repository. We have a few open positions on [our te
 
 Are you interested? Just send us an email at jobs@smyte.com. No recruiters please.
 
-## Some of [our team's](https://www.smyte.com/team) favorite projects
+## Some of [our team's](https://www.smyte.com/about) favorite projects
 
 #### Pete (CEO, founder, ex-Facebook, original member of React.js team)
 * Replacing Riak with multiple services built on [RocksDB](https://www.rocksdb.org/)
